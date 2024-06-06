@@ -1,0 +1,11 @@
+Borough,count,colour
+Manhattan_yellow_taxi,19596373,yellow
+Queens_yellow_taxi,2156255,yellow
+Manhattan_green_taxi,266942,green
+Unknown_yellow_taxi,251027,yellow
+Brooklyn_yellow_taxi,153844,yellow
+Queens_green_taxi,120930,green
+Brooklyn_green_taxi,65583,green
+Bronx_yellow_taxi,34636,yellow
+Bronx_green_taxi,10423,green
+Unknown_green_taxi,1332,green
